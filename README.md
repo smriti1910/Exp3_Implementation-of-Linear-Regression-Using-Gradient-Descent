@@ -8,13 +8,14 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+```
 1.Use the standard libraries in python for Gradient Descent
 2.Upload the dataset and check any null value using .isnull() function.
 3.Declare the default values for linear regression.
 4.Calculate the loss usinng Mean Square Error.
 5.Predict the value of y.
 6.Plot the graph respect to hours and scores using scatter plot functions Program:
-
+```
 ## Program:
 ```
 /*
@@ -91,11 +92,22 @@ print("For population = 70,000 , we predict a profit of $"+str(round(predict2,0)
 
 
 ## Output:
+
+##  Profit prediction
 ![Output1](https://github.com/smriti1910/Exp3_Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/133334803/bac556b4-fdfd-4a10-9213-bada8f03449f)
+## Function output
 ![Output2](https://github.com/smriti1910/Exp3_Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/133334803/621df6ab-a6b6-4910-8827-67ad3e76bef2)
+## Cost function using Gradient descent
+![image](https://github.com/smriti1910/Exp3_Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/133334803/74a0a72f-3935-46c7-a982-f7d18f740e10)
+## Linear regression using profit prediction
 ![Output3](https://github.com/smriti1910/Exp3_Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/133334803/66e009f7-9478-47b2-994f-ea1721d9c43b)
+
 ![Output4](https://github.com/smriti1910/Exp3_Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/133334803/e52c806e-3e9b-455a-9868-e55eb9fde3d1)
 ![Output5](https://github.com/smriti1910/Exp3_Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/133334803/f806d8f5-abc5-4dc1-8efb-32eecf60f17b)
+## Profit prediction for a population of 35000
+![image](https://github.com/smriti1910/Exp3_Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/133334803/b3a1424b-696b-48af-9068-c1a5ecea5d31)
+## Profit prediction for a population of 70000
+![image](https://github.com/smriti1910/Exp3_Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/133334803/bb79d6f0-65a0-4937-adeb-a46e38de16f8)
 
 
 
